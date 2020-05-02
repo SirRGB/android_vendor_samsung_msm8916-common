@@ -196,6 +196,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/mediadrm/libprmediadrmdecrypt.so:$(TARGET_COPY_OUT_VENDOR)/lib/mediadrm/libprmediadrmdecrypt.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/mediadrm/libprmediadrmplugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/mediadrm/libprmediadrmplugin.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:$(TARGET_COPY_OUT_VENDOR)/lib/mediadrm/libwvdrmengine.so \
+    vendor/samsung/msm8916-common/proprietary/vendor/lib/libprotobuf-old-lite.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-old-lite.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/soundfx/libqcbassboost.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcbassboost.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/soundfx/libqcreverb.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcreverb.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/soundfx/libqcvirt.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcvirt.so \
