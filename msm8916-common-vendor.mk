@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8916-common/proprietary/bin/ssr_diag:$(TARGET_COPY_OUT_SYSTEM)/bin/ssr_diag \
     vendor/samsung/msm8916-common/proprietary/bin/ssr_setup:$(TARGET_COPY_OUT_VENDOR)/bin/ssr_setup \
     vendor/samsung/msm8916-common/proprietary/bin/subsystem_ramdump:$(TARGET_COPY_OUT_VENDOR)/bin/subsystem_ramdump \
-    vendor/samsung/msm8916-common/proprietary/bin/time_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/time_daemon \
     vendor/samsung/msm8916-common/proprietary/bin/wdsdaemon:$(TARGET_COPY_OUT_SYSTEM)/bin/wdsdaemon \
     vendor/samsung/msm8916-common/proprietary/bin/wlandutservice:$(TARGET_COPY_OUT_SYSTEM)/bin/wlandutservice \
     vendor/samsung/msm8916-common/proprietary/cameradata/datapattern_420sp.yuv:$(TARGET_COPY_OUT_SYSTEM)/cameradata/datapattern_420sp.yuv \
